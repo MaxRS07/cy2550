@@ -1,0 +1,1 @@
+echo "Oh hey there, I am glad you made it here, please be sure to wear a helmet when riding on the road"
