@@ -22,4 +22,4 @@ Ciphertext: `S NSSR NRE RRF URN U NSNU RNSS UNR URR EU NN S   UI NS RUN RU  SE C
 3. Decode with multi-tap phone keypad
 4. Use an atbash cipher to decode the message, with reverse on
 
-Plaintext: `NOT ALL TREASURES SILVER AND GOLD`
+Plaintext: `NOT ALL TREASURES SILVER AND GOLD MATE`
